@@ -4,9 +4,10 @@ blue
 red
 yellow 
 purple
-peach
+grey
 orange
 black
 brown
 lavender
 pink
+
