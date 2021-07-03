@@ -10,4 +10,7 @@ black
 brown
 lavender
 pink
-
+you should not merge
+hello there
+you cant fast forward merge
+you are suppposed to raise a conflict you idiot 
